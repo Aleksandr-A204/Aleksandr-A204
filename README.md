@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Aleksandr
+- 🔭 I’m currently working on major project
+- 👀 I’m interested in programming, travel, English
+- 🌱 I’m currently learning Vue
+- 📫 How to reach me telegram @SanyaBorz
+- ⚡ Fun fact: I love learning foreign languages - English
+- 👨🏻‍💻 My technology stack: C#, ASP.NET Core, .NET Framework, TypeScript, JavaScript, HTML, CSS, SASS, Styled Components, Node.js, Git, Docker, MongoDB, SQL, PostgreSQL, CMD.
